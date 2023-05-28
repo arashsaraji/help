@@ -8,7 +8,7 @@ Buggy script for configuring OpenConnect (ocserv) protocol on the server easily 
 1. Install Docker
 2. Build docker image
 ```bash
-docker build -t ocserv https://github.com/samsesh/ocserv-docker.git
+docker build -t ocserv https://github.com/arashsaraji/help/blob/main/Dockerfile.git
 ```
 
 3. Run docker container
